@@ -1,0 +1,275 @@
+[
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 1,
+    "object_count": 1000,
+    "iteration_count": 927,
+    "time": 30.020979611,
+    "ips": 30.87840610172286,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 10,
+    "object_count": 1000,
+    "iteration_count": 185,
+    "time": 30.127698023,
+    "ips": 6.140528886699801,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 22,
+    "time": 31.077773522,
+    "ips": 0.707901419785628,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 300,
+    "object_count": 1000,
+    "iteration_count": 7,
+    "time": 30.384377671,
+    "ips": 0.23038154922228554,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 500,
+    "object_count": 1000,
+    "iteration_count": 5,
+    "time": 35.097404039,
+    "ips": 0.1424606786998843,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 700,
+    "object_count": 1000,
+    "iteration_count": 4,
+    "time": 39.490685661,
+    "ips": 0.10128970751070798,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 1000,
+    "object_count": 1000,
+    "iteration_count": 3,
+    "time": 43.876184783,
+    "ips": 0.06837422202584856,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 1,
+    "iteration_count": 4975,
+    "time": 30.002938136,
+    "ips": 165.8170935609331,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 10,
+    "iteration_count": 1587,
+    "time": 30.004941969,
+    "ips": 52.89128709662661,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 100,
+    "iteration_count": 203,
+    "time": 30.023948197,
+    "ips": 6.761269326340092,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 22,
+    "time": 30.746153354,
+    "ips": 0.7155366639429661,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 10000,
+    "iteration_count": 3,
+    "time": 43.742602067,
+    "ips": 0.06858302566008619,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 100000,
+    "iteration_count": 1,
+    "time": 157.543559646,
+    "ips": 0.006347450839926415,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.59 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  }
+]
