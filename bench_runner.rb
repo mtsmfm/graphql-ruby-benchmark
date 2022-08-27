@@ -32,17 +32,17 @@ class BenchmarkRunner
       matrix = if graphql_version == latest_version
         [
           {field_count: 1, object_count: 1000},
-          # {field_count: 10, object_count: 1000},
-          # {field_count: 100, object_count: 1000},
-          # {field_count: 1000, object_count: 1000},
-          # {field_count: 10000, object_count: 1000},
-          # {field_count: 100000, object_count: 1000},
-          # {field_count: 100, object_count: 1},
-          # {field_count: 100, object_count: 10},
-          # {field_count: 100, object_count: 100},
-          # {field_count: 100, object_count: 1000},
-          # {field_count: 100, object_count: 10000},
-          # {field_count: 100, object_count: 100000},
+          {field_count: 10, object_count: 1000},
+          {field_count: 100, object_count: 1000},
+          {field_count: 1000, object_count: 1000},
+          {field_count: 10000, object_count: 1000},
+          {field_count: 100000, object_count: 1000},
+          {field_count: 100, object_count: 1},
+          {field_count: 100, object_count: 10},
+          {field_count: 100, object_count: 100},
+          {field_count: 100, object_count: 1000},
+          {field_count: 100, object_count: 10000},
+          {field_count: 100, object_count: 100000},
         ]
       else
         [
