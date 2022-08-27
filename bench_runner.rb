@@ -55,6 +55,7 @@ class BenchmarkRunner
         result = benchmark(graphql_version: graphql_version, field_count: field_count, object_count: object_count, seconds: SECONDS)
 
         {
+          ruby_version: RUBY_VERSION,
           graphql_version: graphql_version,
           field_count: field_count,
           object_count: object_count,
