@@ -1,0 +1,947 @@
+[
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 1,
+    "object_count": 1000,
+    "iteration_count": 887,
+    "time": 30.029469774,
+    "ips": 29.53765106994926,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 10,
+    "object_count": 1000,
+    "iteration_count": 182,
+    "time": 30.028023941,
+    "ips": 6.061004891883638,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 21,
+    "time": 30.832024122,
+    "ips": 0.6811100016302718,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 300,
+    "object_count": 1000,
+    "iteration_count": 7,
+    "time": 31.651314111,
+    "ips": 0.2211598537568221,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 500,
+    "object_count": 1000,
+    "iteration_count": 5,
+    "time": 34.758160925,
+    "ips": 0.14385110911905935,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 700,
+    "object_count": 1000,
+    "iteration_count": 4,
+    "time": 39.55162755,
+    "ips": 0.10113363843101825,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 1000,
+    "object_count": 1000,
+    "iteration_count": 3,
+    "time": 44.019845602,
+    "ips": 0.06815107956361614,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 1,
+    "iteration_count": 4235,
+    "time": 30.00683086,
+    "ips": 141.13453099258746,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 10,
+    "iteration_count": 1516,
+    "time": 30.004616536,
+    "ips": 50.52555823138349,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 100,
+    "iteration_count": 204,
+    "time": 30.098236637,
+    "ips": 6.777805705375483,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 10000,
+    "iteration_count": 2,
+    "time": 31.771191423,
+    "ips": 0.06295011016024245,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 100000,
+    "iteration_count": 1,
+    "time": 161.75700005,
+    "ips": 0.006182112673274693,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.13.15",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 22,
+    "time": 31.120518269,
+    "ips": 0.7069291009177955,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.12.24",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 23,
+    "time": 30.651419672,
+    "ips": 0.7503730739431442,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.11.10",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 21,
+    "time": 30.067637874,
+    "ips": 0.6984253331772051,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.10.14",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 20,
+    "time": 30.818879933,
+    "ips": 0.6489528510925718,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.9.21",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 23,
+    "time": 30.851091244,
+    "ips": 0.7455165789143067,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.8.18",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 19,
+    "time": 30.967970046,
+    "ips": 0.6135371473098589,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.7.14",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 28,
+    "time": 30.406707235,
+    "ips": 0.9208494620479744,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.6.8",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 39,
+    "time": 30.413439924,
+    "ips": 1.2823278161713016,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 42,
+    "time": 30.08296907,
+    "ips": 1.3961387887701604,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.4.5",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.904460872,
+    "ips": 0.8736602819841612,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.3.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 29,
+    "time": 30.695753051,
+    "ips": 0.944756101986403,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.2.6",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 29,
+    "time": 30.413205599,
+    "ips": 0.9535331586668895,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.1.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 42,
+    "time": 30.665346925,
+    "ips": 1.3696241592414333,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.0.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 32,
+    "time": 30.053055985,
+    "ips": 1.0647835619769168,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.19.4",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 31,
+    "time": 30.353276821,
+    "ips": 1.0213065357922926,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.18.15",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 21,
+    "time": 30.129386481,
+    "ips": 0.6969939468645631,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.17.2",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 19,
+    "time": 31.052533749,
+    "ips": 0.6118663344375841,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.16.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 18,
+    "time": 31.014321786,
+    "ips": 0.5803770311084242,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.15.3",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 18,
+    "time": 31.57122418,
+    "ips": 0.5701394376529367,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.14.2",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 17,
+    "time": 31.590528923,
+    "ips": 0.5381359723807243,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.13.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 17,
+    "time": 30.44073026,
+    "ips": 0.5584622922906187,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.12.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 17,
+    "time": 31.279241292,
+    "ips": 0.5434914434560768,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.11.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 15,
+    "time": 31.010545748,
+    "ips": 0.48370641787132734,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.10.9",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 14,
+    "time": 30.576371221,
+    "ips": 0.4578698989101994,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.9.5",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 17,
+    "time": 31.669461055,
+    "ips": 0.5367947364331932,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.8.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 24,
+    "time": 30.762085745,
+    "ips": 0.7801811684339677,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.7.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 24,
+    "time": 30.553620979,
+    "ips": 0.7855042784125518,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.6.2",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 30,
+    "time": 30.145169267,
+    "ips": 0.9951843273555967,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.5.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 31,
+    "time": 30.858103123,
+    "ips": 1.0045983668028589,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.4.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 31,
+    "time": 30.721998142,
+    "ips": 1.0090489510713154,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.3.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.147873602,
+    "ips": 0.8955855512877309,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.2.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 29,
+    "time": 30.428785133,
+    "ips": 0.9530449498146252,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.1.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 34,
+    "time": 30.458593971,
+    "ips": 1.1162695176399744,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.29 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  }
+]
