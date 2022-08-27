@@ -44,7 +44,7 @@ class BenchmarkRunner
           {field_count: 100, object_count: 1000},
           {field_count: 100, object_count: 10000},
           {field_count: 100, object_count: 100000},
-        ]
+        ].uniq
       else
         [
           {field_count: 100, object_count: 1000}
