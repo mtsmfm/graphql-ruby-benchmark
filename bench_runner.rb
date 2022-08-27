@@ -4,6 +4,7 @@ gemfile do
   source "https://rubygems.org"
 
   gem "pry-byebug"
+  gem "facter"
 end
 
 require "open3"
@@ -62,6 +63,7 @@ class BenchmarkRunner
           iteration_count: result[:iteration_count],
           time: result[:time],
           ips: result[:iteration_count] / result[:time],
+          processors: Facter["processors"].value,
         }
       end
     end
