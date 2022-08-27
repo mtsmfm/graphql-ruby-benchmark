@@ -4,6 +4,7 @@ gemfile do
   source "https://rubygems.org"
 
   gem "pry-byebug"
+  gem "facter"
 end
 
 require "open3"
@@ -31,17 +32,18 @@ class BenchmarkRunner
       matrix = if graphql_version == latest_version
         [
           {field_count: 1, object_count: 1000},
-          # {field_count: 10, object_count: 1000},
-          # {field_count: 100, object_count: 1000},
-          # {field_count: 1000, object_count: 1000},
-          # {field_count: 10000, object_count: 1000},
-          # {field_count: 100000, object_count: 1000},
-          # {field_count: 100, object_count: 1},
-          # {field_count: 100, object_count: 10},
-          # {field_count: 100, object_count: 100},
-          # {field_count: 100, object_count: 1000},
-          # {field_count: 100, object_count: 10000},
-          # {field_count: 100, object_count: 100000},
+          {field_count: 10, object_count: 1000},
+          {field_count: 100, object_count: 1000},
+          {field_count: 300, object_count: 1000},
+          {field_count: 500, object_count: 1000},
+          {field_count: 700, object_count: 1000},
+          {field_count: 1000, object_count: 1000},
+          {field_count: 100, object_count: 1},
+          {field_count: 100, object_count: 10},
+          {field_count: 100, object_count: 100},
+          {field_count: 100, object_count: 1000},
+          {field_count: 100, object_count: 10000},
+          {field_count: 100, object_count: 100000},
         ]
       else
         [
@@ -55,12 +57,14 @@ class BenchmarkRunner
         result = benchmark(graphql_version: graphql_version, field_count: field_count, object_count: object_count, seconds: SECONDS)
 
         {
+          ruby_version: RUBY_VERSION,
           graphql_version: graphql_version,
           field_count: field_count,
           object_count: object_count,
           iteration_count: result[:iteration_count],
           time: result[:time],
           ips: result[:iteration_count] / result[:time],
+          processors: Facter["processors"].value,
         }
       end
     end
