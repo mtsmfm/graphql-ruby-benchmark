@@ -24,12 +24,11 @@ class BenchmarkRunner
 
   def run
     latest_patch_versions = GRAPHQL_VERSIONS.map { Gem::Version.new(_1) }.select { _1 >= Gem::Version.new("0.1.0") }.group_by { _1.version.split(".")[0, 2] }.transform_values(&:max).values
-    latest_version = latest_patch_versions.max.version
 
     result = latest_patch_versions.map(&:version).flat_map do |graphql_version|
       LOGGER.info("Start benchmark for #{graphql_version}")
 
-      matrix = if graphql_version == latest_version
+      matrix = if %w(2.0.13 1.5.15).include?(graphql_version)
         [
           {field_count: 1, object_count: 1000},
           {field_count: 10, object_count: 1000},

@@ -1,0 +1,1136 @@
+[
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 1,
+    "object_count": 1000,
+    "iteration_count": 818,
+    "time": 30.01861359,
+    "ips": 27.2497594716532,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 10,
+    "object_count": 1000,
+    "iteration_count": 155,
+    "time": 30.085291179,
+    "ips": 5.152019273398039,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 21,
+    "time": 30.81850799,
+    "ips": 0.6814087173465402,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 300,
+    "object_count": 1000,
+    "iteration_count": 7,
+    "time": 33.597254411,
+    "ips": 0.20835035846584374,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 500,
+    "object_count": 1000,
+    "iteration_count": 4,
+    "time": 33.341877226,
+    "ips": 0.11996924986817477,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 700,
+    "object_count": 1000,
+    "iteration_count": 3,
+    "time": 33.643907193,
+    "ips": 0.0891691914018888,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 1000,
+    "object_count": 1000,
+    "iteration_count": 2,
+    "time": 33.616097746,
+    "ips": 0.0594953053478071,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 1,
+    "iteration_count": 4428,
+    "time": 30.005110976,
+    "ips": 147.57485828137067,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 10,
+    "iteration_count": 1433,
+    "time": 30.002195211,
+    "ips": 47.76317165867267,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 100,
+    "iteration_count": 188,
+    "time": 30.121268095,
+    "ips": 6.241437093785808,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 10000,
+    "iteration_count": 2,
+    "time": 32.457051847,
+    "ips": 0.06161989109263045,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.13.15",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 20,
+    "time": 30.911485491,
+    "ips": 0.6470086986218465,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.12.24",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 21,
+    "time": 30.454636194,
+    "ips": 0.6895501842881085,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.11.10",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 21,
+    "time": 31.031648778,
+    "ips": 0.6767284635835408,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.10.14",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 22,
+    "time": 30.221067199,
+    "ips": 0.7279689977569015,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.9.21",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 23,
+    "time": 30.972293807,
+    "ips": 0.742599180523136,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.8.18",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 18,
+    "time": 30.179169092,
+    "ips": 0.5964378921476504,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.7.14",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 28,
+    "time": 30.32947539,
+    "ips": 0.9231943394982672,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.6.8",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 35,
+    "time": 30.388743891,
+    "ips": 1.1517422413226392,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 1,
+    "object_count": 1000,
+    "iteration_count": 1874,
+    "time": 30.008246126,
+    "ips": 62.44950111817141,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 10,
+    "object_count": 1000,
+    "iteration_count": 349,
+    "time": 30.081077259,
+    "ips": 11.601978113851697,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 41,
+    "time": 30.643007711,
+    "ips": 1.3379887635926198,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 300,
+    "object_count": 1000,
+    "iteration_count": 12,
+    "time": 30.787558322,
+    "ips": 0.3897678365557527,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 500,
+    "object_count": 1000,
+    "iteration_count": 8,
+    "time": 33.531840026,
+    "ips": 0.23857921288533349,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 700,
+    "object_count": 1000,
+    "iteration_count": 5,
+    "time": 31.256347648,
+    "ips": 0.1599675066424447,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 1000,
+    "object_count": 1000,
+    "iteration_count": 4,
+    "time": 34.853651906,
+    "ips": 0.1147655921619911,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 100,
+    "object_count": 1,
+    "iteration_count": 4895,
+    "time": 30.004324793,
+    "ips": 163.1431479885194,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 100,
+    "object_count": 10,
+    "iteration_count": 2250,
+    "time": 30.009775256,
+    "ips": 74.97556982037533,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 100,
+    "object_count": 100,
+    "iteration_count": 365,
+    "time": 30.007574568,
+    "ips": 12.16359553395012,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.5.15",
+    "field_count": 100,
+    "object_count": 10000,
+    "iteration_count": 4,
+    "time": 32.897815315,
+    "ips": 0.12158862105886314,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.4.5",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.848788835,
+    "ips": 0.8752369548254908,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.3.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 30,
+    "time": 30.024970689,
+    "ips": 0.9991683359408191,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.2.6",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 31,
+    "time": 30.841195116,
+    "ips": 1.0051491157655434,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.1.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 44,
+    "time": 30.572152549,
+    "ips": 1.4392182535880753,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "1.0.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 32,
+    "time": 30.304005197,
+    "ips": 1.0559660279878746,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.19.4",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 31,
+    "time": 30.23688477,
+    "ips": 1.025237891925862,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.18.15",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 21,
+    "time": 30.109983418,
+    "ips": 0.697443094154812,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.17.2",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 20,
+    "time": 31.076853654,
+    "ips": 0.6435657941010942,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.16.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 19,
+    "time": 31.205556203,
+    "ips": 0.6088659300414393,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.15.3",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 18,
+    "time": 30.877585449,
+    "ips": 0.5829471358675471,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.14.2",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 19,
+    "time": 30.907676154,
+    "ips": 0.6147340196438891,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.13.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 18,
+    "time": 30.891352287,
+    "ips": 0.5826873434600316,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.12.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 16,
+    "time": 30.541549652,
+    "ips": 0.523876495538341,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.11.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 16,
+    "time": 31.337824754,
+    "ips": 0.5105651118288846,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.10.9",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 17,
+    "time": 30.58969358,
+    "ips": 0.5557427358839205,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.9.5",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 17,
+    "time": 30.109459081,
+    "ips": 0.564606622598794,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.8.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 24,
+    "time": 31.281831211,
+    "ips": 0.7672185121809811,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.7.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 25,
+    "time": 30.528920133,
+    "ips": 0.818895653402966,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.6.2",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 33,
+    "time": 30.857575495,
+    "ips": 1.069429450325647,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.5.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 32,
+    "time": 30.687315566,
+    "ips": 1.0427761245905258,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.4.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 31,
+    "time": 30.02206634,
+    "ips": 1.032573829160355,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.3.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 30,
+    "time": 30.240700906,
+    "ips": 0.9920404984412169,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.2.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 31,
+    "time": 30.011411841,
+    "ips": 1.032940408276609,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "2.7.6",
+    "graphql_version": "0.1.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 34,
+    "time": 30.651949556,
+    "ips": 1.1092279770943518,
+    "processors": {
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz"
+      ],
+      "isa": "x86_64",
+      "speed": "2.10 GHz",
+      "physicalcount": 1,
+      "count": 2,
+      "cores": 2,
+      "threads": 1
+    }
+  }
+]
