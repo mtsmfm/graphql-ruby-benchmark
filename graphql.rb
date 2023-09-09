@@ -114,6 +114,10 @@ elsif Gem::Version.new(GraphQL::VERSION) < Gem::Version.new("1.8.0")
   end
 else
   class TestSchema < GraphQL::Schema
+    if defined? GraphQL::Schema::AlwaysVisible
+      use GraphQL::Schema::AlwaysVisible
+    end
+
     query QueryType
   end
 end
