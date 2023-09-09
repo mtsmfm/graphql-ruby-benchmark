@@ -1,0 +1,632 @@
+[
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.1.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 51,
+    "time": 30.051985669,
+    "ips": 1.6970592413335548,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.27",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 54,
+    "time": 30.340974111,
+    "ips": 1.7797714668766191,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.26",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 54,
+    "time": 30.471806138,
+    "ips": 1.7721299405570534,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.25",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 54,
+    "time": 30.518551484,
+    "ips": 1.7694155644415381,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.24",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 53,
+    "time": 30.066486316,
+    "ips": 1.7627600193440576,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.23",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 53,
+    "time": 30.221861989,
+    "ips": 1.7536973737518446,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.22",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 53,
+    "time": 30.278098509,
+    "ips": 1.7504401732574468,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.21",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 47,
+    "time": 30.639803932,
+    "ips": 1.5339523746401498,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.20",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 33,
+    "time": 30.463706879,
+    "ips": 1.0832562212823935,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.19",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 33,
+    "time": 30.724273662,
+    "ips": 1.0740693291250896,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.18",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 34,
+    "time": 30.970029844,
+    "ips": 1.0978355581593673,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.17.2",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 29,
+    "time": 30.314364663,
+    "ips": 0.9566421834133229,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.17.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 29,
+    "time": 30.113349055,
+    "ips": 0.9630280559971413,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.17",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 29,
+    "time": 30.253975873,
+    "ips": 0.9585516998405784,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.16",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 28,
+    "time": 30.894292416,
+    "ips": 0.9063162743128222,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.15",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 31,
+    "time": 30.587568537,
+    "ips": 1.013483630204248,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.14",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.379026388,
+    "ips": 0.8887710769646407,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.13",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.834985296,
+    "ips": 0.8756287619667689,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.12",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.638740157,
+    "ips": 0.8812372787407624,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.11",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.479985703,
+    "ips": 0.8858271871611317,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.9",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.068471301,
+    "ips": 0.8979505386129175,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.8",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.34575512,
+    "ips": 0.8897455309063999,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.7",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.255240735,
+    "ips": 0.8924073761794842,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.6",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.907905221,
+    "ips": 0.8735629220726088,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.5",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.087825398,
+    "ips": 0.8973729288456568,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.4",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 28,
+    "time": 31.079099183,
+    "ips": 0.9009270132036439,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.3",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 27,
+    "time": 30.062094056,
+    "ips": 0.8981410260277978,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.2",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 26,
+    "time": 31.003507021,
+    "ips": 0.8386148051699147,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.1",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 26,
+    "time": 31.044771635,
+    "ips": 0.8375001209764898,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "2.0.0",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 29,
+    "time": 30.355739716,
+    "ips": 0.9553382744520829,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+        "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.79 GHz",
+      "threads": 1
+    }
+  }
+]
