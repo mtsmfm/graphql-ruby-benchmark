@@ -1,11 +1,13 @@
 require 'bundler/inline'
 
+GRAPHQL_VERSION = ENV.fetch('GRAPHQL_VERSION')
+
 gemfile do
   source 'https://rubygems.org'
 
   gem 'pry-byebug'
-  gem 'graphql', ENV.fetch('GRAPHQL_VERSION')
-  if Gem::Version.new("0.8.0") <= Gem::Version.new(ENV.fetch('GRAPHQL_VERSION')) && Gem::Version.new(ENV.fetch('GRAPHQL_VERSION')) < Gem::Version.new("0.9.0")
+  gem 'graphql', GRAPHQL_VERSION
+  if Gem::Version.new("0.8.0") <= Gem::Version.new(GRAPHQL_VERSION) && Gem::Version.new(GRAPHQL_VERSION) < Gem::Version.new("0.9.0")
     gem 'celluloid', '0.17.4'
   end
 end
