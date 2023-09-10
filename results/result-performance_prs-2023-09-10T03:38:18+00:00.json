@@ -1,0 +1,482 @@
+[
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "52fa862fc2f29d197821e3ebabfc7641e39f0b81",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 44,
+    "time": 30.088890734,
+    "ips": 1.4623337360283826,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4433,
+    "base_sha": "93ecc6d8c21606a571d0c87c6e3430b71b5acd84",
+    "merge_commit_sha": "52fa862fc2f29d197821e3ebabfc7641e39f0b81"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "93ecc6d8c21606a571d0c87c6e3430b71b5acd84",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 44,
+    "time": 30.134258477,
+    "ips": 1.4601321626541115,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4433,
+    "base_sha": "93ecc6d8c21606a571d0c87c6e3430b71b5acd84",
+    "merge_commit_sha": "52fa862fc2f29d197821e3ebabfc7641e39f0b81"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "b19812ea58141f9e7a8fb452f2ba568703ebf66d",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 46,
+    "time": 30.451409884,
+    "ips": 1.510603291447916,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4436,
+    "base_sha": "52fa862fc2f29d197821e3ebabfc7641e39f0b81",
+    "merge_commit_sha": "b19812ea58141f9e7a8fb452f2ba568703ebf66d"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "52fa862fc2f29d197821e3ebabfc7641e39f0b81",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 44,
+    "time": 30.131853353,
+    "ips": 1.460248710377427,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4436,
+    "base_sha": "52fa862fc2f29d197821e3ebabfc7641e39f0b81",
+    "merge_commit_sha": "b19812ea58141f9e7a8fb452f2ba568703ebf66d"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "93ecc6d8c21606a571d0c87c6e3430b71b5acd84",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 44,
+    "time": 30.191351038,
+    "ips": 1.4573710180978618,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4428,
+    "base_sha": "42fdde5f91b11e3c7a331315432a2de21d537415",
+    "merge_commit_sha": "93ecc6d8c21606a571d0c87c6e3430b71b5acd84"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "42fdde5f91b11e3c7a331315432a2de21d537415",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 43,
+    "time": 30.459033726,
+    "ips": 1.4117322429468588,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4428,
+    "base_sha": "42fdde5f91b11e3c7a331315432a2de21d537415",
+    "merge_commit_sha": "93ecc6d8c21606a571d0c87c6e3430b71b5acd84"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "42fdde5f91b11e3c7a331315432a2de21d537415",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 43,
+    "time": 30.494775884,
+    "ips": 1.410077587176538,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4430,
+    "base_sha": "34e8164c0c7426b62cda4e464725d5fbfe950fdc",
+    "merge_commit_sha": "42fdde5f91b11e3c7a331315432a2de21d537415"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "34e8164c0c7426b62cda4e464725d5fbfe950fdc",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 38,
+    "time": 30.37833115,
+    "ips": 1.2508916244400081,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4430,
+    "base_sha": "34e8164c0c7426b62cda4e464725d5fbfe950fdc",
+    "merge_commit_sha": "42fdde5f91b11e3c7a331315432a2de21d537415"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "963ba5cea1ac8524d69557b6ca73ea0f20eff7cf",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 38,
+    "time": 30.337793392,
+    "ips": 1.252563082258333,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4427,
+    "base_sha": "cb8a6f9e05ec2a1354a162c7ab0b1c50ebb537c3",
+    "merge_commit_sha": "963ba5cea1ac8524d69557b6ca73ea0f20eff7cf"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "cb8a6f9e05ec2a1354a162c7ab0b1c50ebb537c3",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 38,
+    "time": 30.187066373,
+    "ips": 1.258817254067062,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4427,
+    "base_sha": "cb8a6f9e05ec2a1354a162c7ab0b1c50ebb537c3",
+    "merge_commit_sha": "963ba5cea1ac8524d69557b6ca73ea0f20eff7cf"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "cb8a6f9e05ec2a1354a162c7ab0b1c50ebb537c3",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 38,
+    "time": 30.273303751,
+    "ips": 1.255231352103246,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4399,
+    "base_sha": "a04428f2ce3c75104a282716aad333bcab61733e",
+    "merge_commit_sha": "cb8a6f9e05ec2a1354a162c7ab0b1c50ebb537c3"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "a04428f2ce3c75104a282716aad333bcab61733e",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 30,
+    "time": 30.83509471,
+    "ips": 0.9729173943568536,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4399,
+    "base_sha": "a04428f2ce3c75104a282716aad333bcab61733e",
+    "merge_commit_sha": "cb8a6f9e05ec2a1354a162c7ab0b1c50ebb537c3"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "e6b111f60f414d7a3d5fdba324610720a79cdc54",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 52,
+    "time": 30.294644551,
+    "ips": 1.7164749998125832,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4453,
+    "base_sha": "945feeeb1d1356302886995642afb033a029df3a",
+    "merge_commit_sha": "e6b111f60f414d7a3d5fdba324610720a79cdc54"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "945feeeb1d1356302886995642afb033a029df3a",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 52,
+    "time": 30.289160737,
+    "ips": 1.7167857654266045,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4453,
+    "base_sha": "945feeeb1d1356302886995642afb033a029df3a",
+    "merge_commit_sha": "e6b111f60f414d7a3d5fdba324610720a79cdc54"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "0ccd4afa91d46d032ed0d015c442a0b701b93c39",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 52,
+    "time": 30.44446931,
+    "ips": 1.7080278020454678,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4450,
+    "base_sha": "4b9b55bf4a7d6a012f73c2d3d141098904b94ec8",
+    "merge_commit_sha": "0ccd4afa91d46d032ed0d015c442a0b701b93c39"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "4b9b55bf4a7d6a012f73c2d3d141098904b94ec8",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 51,
+    "time": 30.197368893,
+    "ips": 1.6888888624936533,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4450,
+    "base_sha": "4b9b55bf4a7d6a012f73c2d3d141098904b94ec8",
+    "merge_commit_sha": "0ccd4afa91d46d032ed0d015c442a0b701b93c39"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "945feeeb1d1356302886995642afb033a029df3a",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 52,
+    "time": 30.147090633,
+    "ips": 1.7248762287886938,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4452,
+    "base_sha": "92517c58f1c9ae93033a67e5a49bdfcf5de46ac7",
+    "merge_commit_sha": "945feeeb1d1356302886995642afb033a029df3a"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "92517c58f1c9ae93033a67e5a49bdfcf5de46ac7",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 51,
+    "time": 30.296691529,
+    "ips": 1.6833521228277613,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4452,
+    "base_sha": "92517c58f1c9ae93033a67e5a49bdfcf5de46ac7",
+    "merge_commit_sha": "945feeeb1d1356302886995642afb033a029df3a"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "92517c58f1c9ae93033a67e5a49bdfcf5de46ac7",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 51,
+    "time": 30.223127605,
+    "ips": 1.6874494482021363,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4449,
+    "base_sha": "7a734f07f1c020afc039d0f3bf530f1ef268387e",
+    "merge_commit_sha": "92517c58f1c9ae93033a67e5a49bdfcf5de46ac7"
+  },
+  {
+    "ruby_version": "3.2.2",
+    "graphql_version": "7a734f07f1c020afc039d0f3bf530f1ef268387e",
+    "field_count": 100,
+    "object_count": 1000,
+    "iteration_count": 50,
+    "time": 30.458066677,
+    "ips": 1.6416012391803196,
+    "processors": {
+      "cores": 2,
+      "count": 2,
+      "isa": "x86_64",
+      "models": [
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz",
+        "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz"
+      ],
+      "physicalcount": 1,
+      "speed": "2.59 GHz",
+      "threads": 1
+    },
+    "pr": 4449,
+    "base_sha": "7a734f07f1c020afc039d0f3bf530f1ef268387e",
+    "merge_commit_sha": "92517c58f1c9ae93033a67e5a49bdfcf5de46ac7"
+  }
+]

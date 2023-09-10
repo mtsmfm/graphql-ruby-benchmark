@@ -5,6 +5,8 @@ gemfile do
 
   gem "pry-byebug"
   gem "facter"
+  gem "octokit"
+  gem "faraday-retry"
 end
 
 require "open3"
@@ -13,6 +15,7 @@ require "logger"
 require "time"
 require "pathname"
 require "net/http"
+require "optparse"
 
 ROOT_DIR = Pathname.new(__dir__)
 RESULTS_DIR = ROOT_DIR.join("results")
@@ -23,13 +26,39 @@ class BenchmarkRunner
 
   LOGGER = Logger.new(STDOUT)
 
-  def run
+  def run_performance_prs
+    gh_client = Octokit::Client.new
+
+    matrix = [
+      4433,
+      4436,
+      4428,
+      4430,
+      4427,
+      4399,
+      4453,
+      4450,
+      4452,
+      4449
+    ].flat_map do |num|
+      pr = gh_client.pull_request("rmosolgo/graphql-ruby", num)
+
+      [
+        pr.merge_commit_sha,
+        pr.base.sha
+      ].map do |graphql_version|
+        {field_count: 100, object_count: 1000, graphql_version:, use_github: true, additional_info: {pr: num, base_sha: pr.base.sha, merge_commit_sha: pr.merge_commit_sha}}
+      end
+    end
+
+    run(matrix, "performance_prs")
+  end
+
+  def run_released_versions
     target_versions = GRAPHQL_VERSIONS.select { _1 >= Gem::Version.new("2.0.0") }
 
-    result = target_versions.map(&:version).flat_map do |graphql_version|
-      LOGGER.info("Start benchmark for #{graphql_version}")
-
-      matrix = if false
+    matrix = target_versions.map(&:version).flat_map do |graphql_version|
+      data = if false
         [
           {field_count: 1, object_count: 1000},
           {field_count: 10, object_count: 1000},
@@ -49,37 +78,46 @@ class BenchmarkRunner
           {field_count: 100, object_count: 1000}
         ]
       end
-
-      matrix.map do |data|
-        field_count, object_count = data.values_at(:field_count, :object_count)
-        LOGGER.info("field_count: #{field_count}, object_count: #{object_count}")
-
-        result = benchmark(graphql_version: graphql_version, field_count: field_count, object_count: object_count, seconds: SECONDS)
-
-        {
-          ruby_version: RUBY_VERSION,
-          graphql_version: graphql_version,
-          field_count: field_count,
-          object_count: object_count,
-          iteration_count: result[:iteration_count],
-          time: result[:time],
-          ips: result[:iteration_count] / result[:time],
-          processors: Facter["processors"].value,
-        }
-      end
+      data.merge(graphql_version:)
     end
 
-    RESULTS_DIR.join("result-#{Time.now.iso8601}.json").write(JSON.pretty_generate(result))
+    run(matrix, "released_versions")
   end
 
   private
 
-  def benchmark(graphql_version:, field_count:, object_count:, seconds:)
+  def run(matrix, variation_name)
+    result = matrix.map do |data|
+      LOGGER.info("Start benchmark for #{data.inspect}")
+
+      graphql_version, field_count, object_count, use_github, additional_info = data.values_at(:graphql_version, :field_count, :object_count, :use_github, :additional_info)
+
+      result = benchmark(graphql_version:, field_count:, object_count:, use_github:, seconds: SECONDS)
+
+      {
+        ruby_version: RUBY_VERSION,
+        graphql_version: graphql_version,
+        field_count: field_count,
+        object_count: object_count,
+        iteration_count: result[:iteration_count],
+        time: result[:time],
+        ips: result[:iteration_count] / result[:time],
+        processors: Facter["processors"].value,
+      }.merge(additional_info || {})
+    end
+
+    RESULTS_DIR.join("result-#{variation_name}-#{Time.now.iso8601}.json").write(JSON.pretty_generate(result))
+  end
+
+  private
+
+  def benchmark(graphql_version:, field_count:, object_count:, seconds:, use_github: false)
     read, write = IO.pipe
     pid = Process.fork do
       ENV["GRAPHQL_VERSION"] = graphql_version
       ENV["FIELD_COUNT"] = field_count.to_s
       ENV["OBJECT_COUNT"] = object_count.to_s
+      ENV["USE_GITHUB"] = use_github ? "1" : "0"
 
       load ROOT_DIR.join("graphql.rb")
 
@@ -113,4 +151,14 @@ class BenchmarkRunner
   end
 end
 
-BenchmarkRunner.new.run
+opt = OptionParser.new
+params = {}
+opt.on("--variation VAL") {|v| params[:variation] = v }
+opt.parse!(ARGV)
+
+case params[:variation]
+when "released_versions"
+  BenchmarkRunner.new.run_released_versions
+when "performance_prs"
+  BenchmarkRunner.new.run_performance_prs
+end

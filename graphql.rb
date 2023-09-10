@@ -1,14 +1,20 @@
 require 'bundler/inline'
 
 GRAPHQL_VERSION = ENV.fetch('GRAPHQL_VERSION')
+USE_GITHUB = ENV.fetch('USE_GITHUB')
 
 gemfile do
   source 'https://rubygems.org'
 
   gem 'pry-byebug'
-  gem 'graphql', GRAPHQL_VERSION
-  if Gem::Version.new("0.8.0") <= Gem::Version.new(GRAPHQL_VERSION) && Gem::Version.new(GRAPHQL_VERSION) < Gem::Version.new("0.9.0")
-    gem 'celluloid', '0.17.4'
+  if USE_GITHUB == '1'
+    gem 'graphql', github: 'rmosolgo/graphql-ruby', ref: GRAPHQL_VERSION
+  else
+    gem 'graphql', GRAPHQL_VERSION
+
+    if Gem::Version.new("0.8.0") <= Gem::Version.new(GRAPHQL_VERSION) && Gem::Version.new(GRAPHQL_VERSION) < Gem::Version.new("0.9.0")
+      gem 'celluloid', '0.17.4'
+    end
   end
 end
 
