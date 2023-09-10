@@ -10,7 +10,7 @@ jobs:
         with:
           ruby-version: "3.2"
       - run: chmod +t -R /opt/hostedtoolcache
-      - run: ruby bench_runner.rb
+      - run: ruby bench_runner.rb --variation performance_prs
       - run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
